@@ -1,0 +1,40 @@
+"En una escala del 1 al 7, ¿Qué tan complicado se le hizo usar el sistema?","En una escala del 1 al 7, ¿Qué tan practico le pareció el sistema?","En una escala del 1 al 7, ¿Qué tan predecible fue usar el sistema?","En una escala del 1 al 7, ¿Qué tan confuso se le hizo usar el sistema?","En una escala del 1 al 7, ¿Qué tan cautivador se le hizo usar el sistema?","En una escala del 1 al 7, ¿Qué tan creativo le pareció el sistema?","En una escala del 1 al 7, ¿Qué tan atractivo le pareció el sistema?","En una escala del 1 al 7, ¿Qué tan exclusivo le pareció el sistema?","En una escala del 1 al 7, ¿Qué tan bonito le pareció el sistema?","En una escala del 1 al 7, ¿Qué tan bueno le pareció el sistema?",El producto es fácil de usar,"Las funciones del producto son
+exactamente adecuadas para mis objetivos.","Rápidamente se ve cómo utilizar el
+producto.","Considero que el producto es extremadamente
+útil.","Los procedimientos operativos del
+producto son fáciles de entender.","Con la ayuda de este producto
+alcanzaré mis objetivos.",El producto tiene un diseño creativo.,"El producto mejoraría mi relación
+con mis colegas.",No podría vivir sin este producto.,El diseño es atractivo.,"Al utilizar el producto, se me
+percibido de forma diferente.",El producto es como un amigo para mí.,El producto es elegante.,El producto es elegante.,"Si alguna vez perdiera el producto, estaría
+devastado.",No me importaría que mis amigos me envidiaran por este producto.,El producto me entusiasma.,El producto me cansa.,"Cuando uso este producto me siento
+agotada.",El producto me hace sentir feliz.,El producto me frustra.,"El producto me hace sentir
+eufórico.","El producto me hace sentir
+pasivo.",El producto me calma.,"Cuando uso este producto, me siento
+alegre.",El producto me enfada.,"Si pudiera, usaría el producto
+a diario.","No cambiaría este producto por
+ningún otro.","No cambiaría este producto por
+ningún otro.","Estoy deseando volver a utilizar el
+producto de nuevo.","En comparación con este producto
+otros se le acercan.","Me compraría exactamente este producto
+mí (otra vez) en cualquier momento.","Cuando utilizo el producto, pierdo
+la noción del tiempo.",¿Cómo percibe el producto en su conjunto?,"En una escala del 1 al 7, ¿Qué tan comprensivo fue usar el sistema?","En una escala del 1 al 7, ¿Qué tan complicado fue usar el sistema?","En una escala del 1 al 7, ¿Qué tan eficiente fue usar el sistema?","En una escala del 1 al 7, ¿Qué tan claro fue usar el sistema?","En una escala del 1 al 7, ¿Qué tan aburrido fue usar el sistema?","En una escala del 1 al 7, ¿Qué tan interesante fue usar el sistema?","En una escala del 1 al 7, ¿Qué tan innovador fue usar el sistema?"
+1,7,1,7,7,2,1,2,7,7,7,7,7,7,7,7,7,7,4,6,6,4,6,6,4,4,5,1,1,7,1,5,5,6,7,1,4,6,6,4,2,3,2,10,7,7,7,1,6,6,6
+1,7,3,5,2,3,1,3,7,7,7,7,5,4,7,5,4,4,4,6,4,4,7,7,2,1,6,1,1,5,1,5,4,5,5,1,4,5,5,4,4,3,1,10,7,7,7,1,5,5,6
+1,7,1,7,7,2,1,2,7,7,7,7,7,7,7,7,7,7,4,6,6,4,6,6,4,4,5,1,1,7,1,5,5,6,7,1,4,6,6,4,2,3,2,10,7,7,7,1,6,6,6
+1,7,1,7,7,2,1,2,7,7,7,7,7,7,7,7,7,7,4,6,6,4,6,6,4,4,5,1,1,7,1,5,5,6,7,1,4,6,6,4,2,3,2,10,7,7,7,1,6,6,6
+2,6,2,6,6,1,2,1,6,6,6,6,6,6,6,6,6,6,3,7,7,3,7,7,3,3,4,2,2,6,2,6,6,7,6,2,5,7,7,3,1,2,1,9,6,6,6,2,7,7,7
+1,7,1,7,7,2,1,2,7,7,7,7,7,7,7,7,7,7,4,6,6,4,6,6,4,4,5,1,1,7,1,5,5,6,7,1,4,6,6,4,2,3,2,10,7,7,7,1,6,6,6
+1,7,1,7,7,2,1,2,7,7,7,7,7,7,7,7,7,7,4,6,6,4,6,6,4,4,5,1,1,7,1,5,5,6,7,1,4,6,6,4,2,3,2,10,7,7,7,1,6,6,6
+1,7,3,5,2,3,1,3,7,7,7,7,5,4,7,5,4,4,4,6,4,4,7,7,2,1,6,1,1,5,1,5,4,5,5,1,4,5,5,4,4,3,1,10,7,7,7,1,5,5,6
+1,7,1,7,7,2,1,2,7,7,7,7,7,7,7,7,7,7,4,6,6,4,6,6,4,4,5,1,1,7,1,5,5,6,7,1,4,6,6,4,2,3,2,10,7,7,7,1,6,6,6
+2,6,2,6,6,1,2,1,6,6,6,6,6,6,6,6,6,6,3,7,7,3,7,7,3,3,4,2,2,6,2,6,6,7,6,2,5,7,7,3,1,2,1,9,6,6,6,2,7,7,7
+1,7,3,5,2,3,1,3,7,7,7,7,5,4,7,5,4,4,4,6,4,4,7,7,2,1,6,1,1,5,1,5,4,5,5,1,4,5,5,4,4,3,1,10,7,7,7,1,5,5,6
+1,7,1,7,7,2,1,2,7,7,7,7,7,7,7,7,7,7,4,6,6,4,6,6,4,4,5,1,1,7,1,5,5,6,7,1,4,6,6,4,2,3,2,10,7,7,7,1,6,6,6
+2,6,2,6,6,1,2,1,6,6,6,6,6,6,6,6,6,6,3,7,7,3,7,7,3,3,4,2,2,6,2,6,6,7,6,2,5,7,7,3,1,2,1,9,6,6,6,2,7,7,7
+2,6,2,6,6,1,2,1,6,6,6,6,6,6,6,6,6,6,3,7,7,3,7,7,3,3,4,2,2,6,2,6,6,7,6,2,5,7,7,3,1,2,1,9,6,6,6,2,7,7,7
+1,7,3,5,2,3,1,3,7,7,7,7,5,4,7,5,4,4,4,6,4,4,7,7,2,1,6,1,1,5,1,5,4,5,5,1,4,5,5,4,4,3,1,10,7,7,7,1,5,5,6
+2,6,2,6,6,1,2,1,6,6,6,6,6,6,6,6,6,6,3,7,7,3,7,7,3,3,4,2,2,6,2,6,6,7,6,2,5,7,7,3,1,2,1,9,6,6,6,2,7,7,7
+1,7,1,7,7,2,1,2,7,7,7,7,7,7,7,7,7,7,4,6,6,4,6,6,4,4,5,1,1,7,1,5,5,6,7,1,4,6,6,4,2,3,2,10,7,7,7,1,6,6,6
+2,6,2,6,6,1,2,1,6,6,6,6,6,6,6,6,6,6,3,7,7,3,7,7,3,3,4,2,2,6,2,6,6,7,6,2,5,7,7,3,1,2,1,9,6,6,6,2,7,7,7
+1,7,3,5,2,3,1,3,7,7,7,7,5,4,7,5,4,4,4,6,4,4,7,7,2,1,6,1,1,5,1,5,4,5,5,1,4,5,5,4,4,3,1,10,7,7,7,1,5,5,6
+1,7,3,5,2,3,1,3,7,7,7,7,5,4,7,5,4,4,4,6,4,4,7,7,2,1,6,1,1,5,1,5,4,5,5,1,4,5,5,4,4,3,1,10,7,7,7,1,5,5,6
