@@ -1,6 +1,6 @@
 # OSD Database Security and ACID Compliance Notes
 
-![DIAGRAM](erd.svg)
+![DIAGRAM](Chart-2025-04-09-203350.svg)
 
 ## Security Model Implementation
 
